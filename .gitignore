@@ -1,0 +1,11 @@
+.git/
+.vscode/
+src/.env
+src/__pycache__/
+src/databases/__pycache__/
+src/databases/services/__pycache__/
+src/utils/__pycache__/
+hidden/
+src/databases/foods.sql
+src/databases/meals.sql
+src/databases/users.sql
